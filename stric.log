@@ -1,0 +1,6 @@
+2020-07-09 00:19:55.355  INFO 28705 --- [main] com.stric.spring.StricSpringApplication  : Starting StricSpringApplication v0.0.1-SNAPSHOT on Z-T450s with PID 28705 (/home/sajeer/Sajeer/madness/stric_spring/target/stric_spring-0.0.1-SNAPSHOT.jar started by sajeer in /home/sajeer/Sajeer/madness/stric_spring)
+2020-07-09 00:19:55.359  INFO 28705 --- [main] com.stric.spring.StricSpringApplication  : No active profile set, falling back to default profiles: default
+2020-07-09 00:19:56.814  INFO 28705 --- [main] com.stric.spring.StricSpringApplication  : Started StricSpringApplication in 2.376 seconds (JVM running for 2.95)
+2020-07-09 00:21:58.245  INFO 29024 --- [main] com.stric.spring.StricSpringApplication  : Starting StricSpringApplication v0.0.1-SNAPSHOT on Z-T450s with PID 29024 (/home/sajeer/Sajeer/madness/stric_spring/target/stric_spring-0.0.1-SNAPSHOT.jar started by sajeer in /home/sajeer/Sajeer/madness/stric_spring)
+2020-07-09 00:21:58.255  INFO 29024 --- [main] com.stric.spring.StricSpringApplication  : No active profile set, falling back to default profiles: default
+2020-07-09 00:21:59.867  INFO 29024 --- [main] com.stric.spring.StricSpringApplication  : Started StricSpringApplication in 2.491 seconds (JVM running for 3.072)
